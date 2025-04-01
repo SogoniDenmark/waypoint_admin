@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882278911668",
+    "project_id": "waypoint-ae786",
+    "storage_bucket": "waypoint-ae786.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882278911668:android:71bad87bc4557f1c8991e1",
+        "android_client_info": {
+          "package_name": "com.example.waypoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KEorCtm0LrKE0sF4LRp0YKj8_byHSw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882278911668:android:73405103dbf314de8991e1",
+        "android_client_info": {
+          "package_name": "com.example.wp_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KEorCtm0LrKE0sF4LRp0YKj8_byHSw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
